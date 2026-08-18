@@ -170,12 +170,4 @@ Open Serial Monitor at 115200 baud to see initialization messages and debug info
 
 This firmware is for educational research and testing on your own networks only.
 
-**⚠️ WARNING**: Unauthorized use of RF jamming devices is ILLEGAL in most countries. Use responsibly and only in controlled environments with proper permissions.
-
-## License
-
-MIT License - See LICENSE file for details
-
-## Author
-
-Created for educational RF research and exploration.
+SIGNAL JAMMING IS ILLEGAL USE ONLY FOR EDUCATIONAL PURPOSES
